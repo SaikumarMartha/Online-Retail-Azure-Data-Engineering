@@ -1,4 +1,3 @@
-# Online-Retail-Azure-Data-Engineering
 
 # Online Retail Azure Data Engineering Project
 
